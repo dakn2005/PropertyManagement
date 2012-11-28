@@ -1,0 +1,13 @@
+-error in trying to add search function in Tenant index form : research
+-adding properties to models and making them accessible [show landlord name in tenant details page]
+-modify project to take a situation where a tenant has more than 1 landlords
+-error handling!
+
+-using CDbCriteria in yii - really helpful
+http://www.yiiframework.com/forum/index.php/topic/17171-clistview-how-to-only-get-records-starting-with-a-given-letter/
+
+help source
+http://www.yiiframework.com/forum/index.php/topic/7668-form-get-method-with-path-url-format/
+
+
+
